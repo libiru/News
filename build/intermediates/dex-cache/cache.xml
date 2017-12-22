@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lneves\.android\build-cache\0ab47276cfea3bc5830059a81a423f53824cf1c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\lneves\Documents\News\app\build\intermediates\pre-dexed\debug\classes_0ece427436216d1160d667a3b4f57ac22359c314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lneves\.android\build-cache\3ae0103497da15f0ca34efd048f13f7c91cc2897\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\lneves\Documents\News\app\build\intermediates\pre-dexed\debug\classes_f4eba33f7bffa88a72922e3ee5601c47c1e443d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lneves\AndroidStudioProjects\Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="441f8912134ce54e0b0cbe25c5ca0bdf243ba49a">
+        <dex dex="C:\Users\lneves\AndroidStudioProjects\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a97abc0560b0c81f43c944752b93ff67b24e7d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lneves\.android\build-cache\39925f01680cf048bdd54b711efce4f69935cfe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\lneves\Documents\News\app\build\intermediates\pre-dexed\debug\classes_b12dfbac466ec67030cb27815970aeefdef0080e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lneves\.android\build-cache\bff870aa445fd779c456f4da602bcedf8a96caa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\lneves\Documents\News\app\build\intermediates\pre-dexed\debug\classes_145549c79632a86fe3d7f62beaa348b14e1b638c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lneves\AndroidStudioProjects\Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\lneves\AndroidStudioProjects\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6dfe4856b95dd25603ffff7bd209ebfdc581e289\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INDT</string>
+    <string name="title_home">Geral</string>
+    <string name="title_dashboard">Treinamentos</string>
+    <string name="title_notifications">Reuniões</string>
+    <string name="link"><u>Inscreva-se</u></string>
+</resources>
