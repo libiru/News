@@ -30,9 +30,9 @@ public class TrainingAdapter extends ArrayAdapter<Training> {
 
         if (view == null)
         {
-            LayoutInflater inflater;
-            inflater = LayoutInflater.from(getContext());
-            view = inflater.inflate(R.layout.training_item_adapter, null);
+            LayoutInflater inflater;//block list about courses
+            inflater = LayoutInflater.from(getContext());//block list about meetings
+            view = inflater.inflate(R.layout.training_item_adapter, null); //block list about trainning
         }
 
         Training info = getItem(position);

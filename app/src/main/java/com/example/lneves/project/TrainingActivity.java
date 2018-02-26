@@ -16,10 +16,10 @@ public class TrainingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_training);
 
-        List trainingList = new ArrayList<>();
+        List trainingList = new ArrayList<>();//trainning and courses and meeting
         for (int i = 0; i < 10; i++) {
 
-            Training item = new Training();
+            Training item = new Training();//meeting; date; hour;
             item.setDate("20");
             trainingList.add(item);
         }

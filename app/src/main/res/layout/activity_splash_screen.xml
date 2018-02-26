@@ -14,7 +14,6 @@
         android:layout_width="200dp"
         android:layout_height="150dp"
         android:layout_centerHorizontal="true"
-        android:background="@drawable/indt_logo"
-        />
+        android:background="@drawable/indt_logo"/>
 
 </RelativeLayout>
